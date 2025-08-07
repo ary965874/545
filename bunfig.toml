@@ -1,0 +1,2 @@
+name = "hubcloud-bypass"
+main = "api/index.ts"
